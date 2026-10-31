@@ -27,5 +27,3 @@ Nayan Jagdish more
 4. Install the required dependencies.
 5. Follow the instructions to run the project.
 
-## How to Run
-Add the commands required to run the BCI project here.

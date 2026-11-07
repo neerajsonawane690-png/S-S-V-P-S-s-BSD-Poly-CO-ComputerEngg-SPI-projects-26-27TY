@@ -20,10 +20,5 @@ Nayan Jagdish more
 - project_report/: Final report and presentation PDFs
 - project_files/: Source code and related files
 
-## Prerequisites and Installation
-1. Install the required software.
-2. Clone the repository from GitHub.
-3. Open the project folder in VS Code.
-4. Install the required dependencies.
-5. Follow the instructions to run the project.
+
 
